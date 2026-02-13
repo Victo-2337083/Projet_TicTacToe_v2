@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Scene_TicTactToe.unity
+    guid: 38ef18adca8bcf6478f3e9517936e533
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 795dac09194d8934d95648398639cb21, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: f2c23768b22b7214085d5d8beb02279a, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 47424f319adae3c49ae3a9c4bf5cf729, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 0734e1eda3f2d6d4d919979a1144ebfa, type: 2}
+  m_UseUCBPForAssetBundles: 0

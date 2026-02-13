@@ -144,7 +144,11 @@ Utilisée pour mieux comprendre le comportement des anchors côté Android.
 Unity Technologies – AR Foundation Demo Projects (GitHub)
 https://github.com/Unity-Technologies/arfoundation-demos
 - Cours : https://envimmersif-cegepvicto.github.io/
-
+https://developers.google.com/ar/develop/anchors?hl=fr
+https://docs.unity.cn/Packages/com.unity.xr.arfoundation%406.0/manual/features/plane-detection/arplanemanager.html
+https://docs.unity.cn/Packages/com.unity.xr.arfoundation@6.0/manual/features/plane-detection/arplanemanager.html
+Utiliser des ancres: https://developers.google.com/ar/develop/anchors?hl=fr
+- https://learn.unity.com/course/ar-curricular-framework-resources/tutorial/configuring-plane-detection-for-ar-foundation
 Exemples de projets servant de référence pour les bonnes pratiques AR.
 ### Documentation officielle
 - Unity – AR Plane Manager (AR Foundation)

@@ -171,9 +171,11 @@ L’IA a été utilisée comme outil d’assistance pour :
 Questions initiales
 
 Comment fonctionne la détection de plans dans AR Foundation et quels types de surfaces sont pris en charge dans le projet ?
-
+peut tu analyser mon code et me dire ce qui empêche le fonctionnement de ma grille.
+comment fonctionne la detection des surface en vr
 Quelle est la différence entre un objet simplement positionné dans la scène et un objet ancré à l’aide d’un AR Anchor ?
-
+je suis debutant, en VR ET AR , aide moi avec les principes de base
+ 
 Comment le système de tap utilisateur est-il relié au placement de la grille sur une surface détectée ?
 
 Comment la stabilité spatiale de la grille est-elle assurée lorsque l’utilisateur se déplace autour de la scène ?

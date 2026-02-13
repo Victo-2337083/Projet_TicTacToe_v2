@@ -168,5 +168,25 @@ L’IA a été utilisée comme outil d’assistance pour :
 - clarifier l’usage des AR Anchors ;
 - structurer l’architecture logicielle ;
 - améliorer la logique de jeu et l’interface utilisateur.
+Questions initiales
 
+Comment fonctionne la détection de plans dans AR Foundation et quels types de surfaces sont pris en charge dans le projet ?
+
+Quelle est la différence entre un objet simplement positionné dans la scène et un objet ancré à l’aide d’un AR Anchor ?
+
+Comment le système de tap utilisateur est-il relié au placement de la grille sur une surface détectée ?
+
+Comment la stabilité spatiale de la grille est-elle assurée lorsque l’utilisateur se déplace autour de la scène ?
+
+Quelle architecture logicielle permet de séparer efficacement la logique AR, la logique du jeu et l’interface utilisateur ?
+
+Comment les cellules de la grille sont-elles générées dynamiquement et référencées dans le contrôleur de jeu ?
+
+Quels mécanismes empêchent le placement d’un symbole sur une case déjà occupée ?
+
+Comment la ligne gagnante est-elle mise en évidence visuellement dans l’espace de réalité augmentée ?
+
+Comment la gestion des tours (joueur X / joueur O) est-elle synchronisée avec l’interface utilisateur ?
+
+Quels problèmes peuvent apparaître lors de la détection simultanée de plusieurs surfaces AR et comment les gérer ?
 Toutes les décisions finales ont été analysées, adaptées et validées dans le cadre académique du projet.
